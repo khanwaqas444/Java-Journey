@@ -10,7 +10,7 @@ public class DemoMulti2 extends Thread
  	}
 }
 }
-class B 
+class C
 {
 	public static void main(String[] args) {
 		DemoMulti t=new DemoMulti();
